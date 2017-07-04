@@ -9,7 +9,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace TestScreenshot
+namespace GetScreenshot
 {
     public partial class CropImageForm : Form
     {

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Runtime.InteropServices;
 
-namespace TestScreenshot
+namespace GetScreenshot
 {
     static class SafeNativeMethods
     {

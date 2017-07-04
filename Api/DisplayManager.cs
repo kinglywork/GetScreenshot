@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Runtime.InteropServices;
 
-namespace TestScreenshot
+namespace GetScreenshot
 {
     /// <summary>
     /// Represents a wrapper to the native methods.

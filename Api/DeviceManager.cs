@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Runtime.InteropServices;
 
-namespace TestScreenshot
+namespace GetScreenshot
 {
     static class DeviceManager
     {

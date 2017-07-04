@@ -1,4 +1,4 @@
-﻿namespace TestScreenshot
+﻿namespace GetScreenshot
 {
     partial class CropImageForm
     {

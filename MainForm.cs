@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Forms;
 
-namespace TestScreenshot
+namespace GetScreenshot
 {
     public partial class MainForm : Form
     {
